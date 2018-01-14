@@ -19,3 +19,6 @@ Użycie raspberry pozwala na sterowanie silnikami lub serwomechanizmami z poziom
  - Zainstalowanie i konfiguracja systemu na raspbarry pi 
  - Konfiguracja zdalnego dostępu do raspberry pi 
  - Pierwsze próby obsługi systemów GPIO (pinów) służących do obsługi silników 
+ # Postępy 2 
+ - program do poruszania się pojazdu po określonej trasie 
+ - "Problem" podczas prac rasspberry uległo uszkodzeniu co wymusiło nabycie nowego egzemplarza , brak raspberry uniemożliwia kompilację i sprawdzenia porawności działania programu.(komputer powinien dotrzeć w poniedziałek )
